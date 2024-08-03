@@ -4,8 +4,8 @@
   List,
   ListItem,
   Typography,
-} from '@mui/material'
-import styles from '../../page.module.css'
+} from '@mui/material';
+import styles from '../../page.module.css';
 
 interface House {
   name: string
