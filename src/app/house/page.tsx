@@ -1,5 +1,5 @@
-import { Box, List, ListItem, Typography } from '@mui/material'
-import styles from '../page.module.css'
+import { Box, List, ListItem, Typography } from '@mui/material';
+import styles from '../page.module.css';
 interface House {
   name: string
   url: string
